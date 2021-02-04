@@ -40,7 +40,7 @@ public class Main {
         for (int i = 0; i < 3; i++) {
             humans[i].setRunning(run);
             humans[i].setJumping(jump);
-            run += 50;
+            run += 40;
             jump += 1;
         }
 
